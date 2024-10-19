@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeePassKey", "KeePassKey\KeePassKey.csproj", "{F27D27B5-EFD6-4B2F-A4B7-6F910469D0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27D27B5-EFD6-4B2F-A4B7-6F910469D0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27D27B5-EFD6-4B2F-A4B7-6F910469D0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27D27B5-EFD6-4B2F-A4B7-6F910469D0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27D27B5-EFD6-4B2F-A4B7-6F910469D0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEB5592-9DEB-4293-A0B3-5A4324601301}
+	EndGlobalSection
+EndGlobal
